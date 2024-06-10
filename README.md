@@ -4,10 +4,8 @@
 
 <p align="left"> 
 🔹 Sobre Mim:<br/>
-🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e trabalhando como desenvolvedor FullStack no Grupo Bamaq.<br/>
+🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e trabalhando como desenvolvedor FullStack PL<br/>
 
-💼 Experiência Profissional:<br/>
-🔧 No Grupo Bamaq, contribuo para o sucesso de projetos de e-commerce, aplicando meu conhecimento em metodologias ágeis, DevOps e tecnologias de ponta.<br/>
 
 🛠️ Habilidades Técnicas:<br/>
 🌐 Minhas habilidades incluem o desenvolvimento de aplicativos e sistemas com tecnologias como PHP, Laravel, Vue.js, Quasar, MySQL, React Native e GraphQL. Também sou experiente em trabalhar com APIs REST, Docker e ferramentas como GitHub e Figma.<br/>
