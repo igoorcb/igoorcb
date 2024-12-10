@@ -4,7 +4,7 @@
 
 <p align="left"> 
 🔹 Sobre Mim:<br/>
-🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e trabalhando como desenvolvedor FullStack PL<br/>
+🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e atualmente trabalhando como desenvolvedor FullStack PL na OKTZ TI<br/>
 
 
 🛠️ Habilidades Técnicas:<br/>
