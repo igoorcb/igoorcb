@@ -1,8 +1,8 @@
 ## Olá !! Meu nome é <strong>Igor</strong>! 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
- <p https://igorcarvalho.vercel.app/ >
 <p align="left"> 
+ https://igorcarvalho.vercel.app/<br/>
 🔹 Sobre Mim:<br/>
 🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e atualmente trabalhando como desenvolvedor FullStack PL na OKTZ TI<br/>
 
