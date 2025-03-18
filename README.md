@@ -4,6 +4,7 @@
 
 <p align="left"> 
 🔹 Sobre Mim:<br/>
+ https://igorcarvalho.vercel.app/
 🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e atualmente trabalhando como desenvolvedor FullStack PL na OKTZ TI<br/>
 
 
