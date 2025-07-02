@@ -1,42 +1,63 @@
-## Olá !! Meu nome é <strong>Igor</strong>! 👋
+## 👋 Olá! Eu sou o **Igor Carvalho Braz**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-🔹 Sobre Mim:<br/>
-🚀 Sou um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Atualmente, estou cursando Engenharia da Computação e atualmente trabalhando como desenvolvedor FullStack PL na OKTZ TI<br/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
 
+### 👨‍💻 Especialista em Laravel | Desenvolvedor FullStack Pleno
 
-🛠️ Habilidades Técnicas:<br/>
-🌐 Minhas habilidades incluem o desenvolvimento de aplicativos e sistemas com tecnologias como PHP, Laravel, Vue.js,Swift, Quasar, MySQL. Também sou experiente em trabalhar com APIs REST, Docker e ferramentas como GitHub e Figma.<br/>
+Sou um entusiasta da tecnologia com mais de **4 anos de experiência em desenvolvimento Web**, apaixonado por transformar ideias em soluções robustas e escaláveis. Atualmente, atuo como **Software Engineer Pleno** na OKTZ TI, onde contribuo para a evolução de plataformas de franquias como **CoopStore/Payprint**.
 
-📚 Educação:<br/>
-🎓 Atualmente, estou focado em minha graduação em Engenharia da Computação, onde estou aprimorando ainda mais meu conjunto de habilidades técnicas.<br/>
+---
 
-<h2 align="left">
- 🦄 Linguagens:
-</h2>
+### 🚀 Sobre minha trajetória
 
-![Docker](https://img.shields.io/badge/Docker-E34F26?style=for-the-badge&logo=Docker&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Php](https://img.shields.io/badge/Php-35495E?style=for-the-badge&logo=php&logoColor=white)
+Durante minha jornada, desenvolvi projetos de alto impacto, como:
+
+- 💳 **E-commerce de carta de crédito** — Bamaq Digital  
+- 🚗 **E-commerce para motoristas parceiros** — dentro do app da **Uber**  
+- 🛒 Integrações com **Carrefour** e **plataformas OpenCart**  
+- 🚚 Sistema logístico próprio da transportadora **Zapex**
+
+Sou movido por desafios e tenho foco em **Clean Code**, princípios **SOLID** e **boas práticas de arquitetura moderna**, sempre prezando por código de qualidade e bem documentado.
+
+---
+
+### 🧠 Tecnologias & Habilidades
+
+- 🔹 **Back-end**: PHP, Laravel, OpenCart, Blade, MySQL  
+- 🔹 **Front-end**: Vue.js, JavaScript, TypeScript, Quasar  
+- 🔹 **DevOps / Infra**: Docker, Git, GitHub Actions  
+- 🔹 **Boas práticas**: TDD, APIs RESTful, SOLID, Clean Architecture  
+- 🔹 **Ferramentas**: Figma, Postman, Insomnia, Jira, Notion
+
+---
+
+### 🎓 Educação
+
+🎓 Graduado em **Engenharia da Computação** 
+🧠 Em constante evolução técnica e acadêmica, buscando sempre inovar e entregar valor real com software de qualidade.
+
+---
+
+### 🦄 Tecnologias que uso
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-35495E?style=for-the-badge&logo=Laravel&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
+---
 
-<a href="https://www.linkedin.com/in/igor-carvalho-4a750616b/" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+### 💬 Vamos conversar?
 
-<a href="https://wa.me/+5531982877186" title="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<br>https://igorcarvalho.vercel.app/<br/>
-<br>
-<br>
-<br>
+Estou sempre aberto a novas conexões, parcerias e projetos desafiadores!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-carvalho-4a750616b/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531982877186)
+
+🌐 Portfólio: [igorcarvalho.vercel.app](https://igorcarvalho.vercel.app/)
