@@ -33,7 +33,8 @@ Sou movido por desafios e tenho foco em **Clean Code**, princípios **SOLID** e 
 
 ### 🎓 Educação
 
-🎓 Graduado em **Engenharia da Computação** 
+Graduado em **Engenharia da Computação** 
+Tecnico em Informatica para Web - SENAI 
 
 ---
 
