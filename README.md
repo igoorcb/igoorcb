@@ -34,7 +34,6 @@ Sou movido por desafios e tenho foco em **Clean Code**, princípios **SOLID** e 
 ### 🎓 Educação
 
 🎓 Graduado em **Engenharia da Computação** 
-🧠 Em constante evolução técnica e acadêmica, buscando sempre inovar e entregar valor real com software de qualidade.
 
 ---
 
