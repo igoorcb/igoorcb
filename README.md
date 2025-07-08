@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
 
-### 👨‍💻 Especialista em Laravel | Desenvolvedor FullStack Pleno
+### 👨‍💻 Especialista em Laravel | Software Engineer Pleno
 
 Sou um entusiasta da tecnologia com mais de **4 anos de experiência em desenvolvimento Web**, apaixonado por transformar ideias em soluções robustas e escaláveis. Atualmente, atuo como **Software Engineer Pleno** na OKTZ TI, onde contribuo para a evolução de plataformas de franquias como **CoopStore/Payprint**.
 
