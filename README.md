@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400px" align="right" />
 
-### 👨‍💻 Full Stack Software Engineer | Laravel Specialist
+### 👨‍💻 Full Stack Software Engineer | Laravel
 
 I'm a technology enthusiast with over **4 years of experience in Web Development**, passionate about turning ideas into robust and scalable solutions. Currently, I work as a **Software Engineer** at OKTZ TI, where I contribute to the evolution of franchise platforms like **CoopStore/Payprint**.
 
